@@ -26,3 +26,5 @@ Slides: https://slides.com/balramsingh/preact#/
 10. Formik
 
 11. How we achieved 100% code coverage
+
+12. React Hooks
